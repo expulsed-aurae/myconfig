@@ -1,2 +1,2 @@
 # myconfig
-my first repository
+this is my first repository to store my vim settings
